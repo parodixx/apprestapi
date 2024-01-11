@@ -11,5 +11,5 @@ var routes = require('./routes');
 routes(app);
 
 app.listen(3000, () => {
-    console.log(`Server dibuka pada port`);
+    console.log(`Server dibuka`);
 });
